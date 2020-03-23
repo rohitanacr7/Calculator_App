@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+    <style name="StartScreen" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/background_startscreen</item>
+    </style>
+
+</resources>
